@@ -11,3 +11,10 @@
 **Today's Progress**: Worked on nulls and undefined for a exercism project - Amusement Park.
 
 **Thoughts** The thought process was quite easy, but I kept missing basic syntax which was annoying, guess it's my fault for not coding java in 28 days.
+
+### Day 3: March 17, 2025
+
+**Today's Progress** Recreating a website for a odin project assingment.
+
+**Thoughts** It's been quite fun, coding is very project learning and I don't feel that I'm learning nearly as much when I'm reading, so actually doing this project has been beneficial.
+Need to create an html website for this log.
