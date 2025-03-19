@@ -18,3 +18,15 @@
 
 **Thoughts** It's been quite fun, coding is very project learning and I don't feel that I'm learning nearly as much when I'm reading, so actually doing this project has been beneficial.
 Need to create an html website for this log.
+
+### Day 4: March 18, 2025
+
+**Today's Progress** Exercism task, lasagna master
+
+**Thoughts** Took a bit longer than expected, but found it quite easy.
+
+### Day 5: March 19, 2025
+
+**Today's Progress** Continuing development of the website landing page assignment
+
+**Thoughts** Finding html positioning easier, requires practice. 
