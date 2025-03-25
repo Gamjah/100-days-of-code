@@ -30,3 +30,13 @@ Need to create an html website for this log.
 **Today's Progress** Continuing development of the website landing page assignment
 
 **Thoughts** Finding html positioning easier, requires practice. 
+
+######
+
+### Messed up 4 days. Back to square 1
+
+### Day 1: March 25, 2025
+
+**Today's Progress**: Finished foundations chapter on odins project
+
+**Thoughts** Did my first DOM exercises today, quite interesting. Interesting that the javascript path on exercism hasn't touched on these topics (yet?)
